@@ -46,7 +46,7 @@ Certifications:            Certifications:            Certifications:
 
 | Training | Progress | Status |
 |----------|----------|--------|
-| 🐧 Linux Bootcamp (20 modules) | `███░░░░░░░` 15% | 🔄 In progress |
+| 🐧 Linux Bootcamp (20 modules) | `████░░░░░░` 20% | 🔄 In progress |
 | 🖊️ Bash Scripting Mastery | `░░░░░░░░░░` 0% | ⬜ Up next |
 | ☁️ AWS Cloud Practitioner | `░░░░░░░░░░` 0% | ⬜ Coming |
 | 🐳 Docker Fundamentals | `░░░░░░░░░░` 0% | ⬜ Coming |
@@ -122,9 +122,10 @@ Certifications:            Certifications:            Certifications:
 
 | Date | Module | Notes |
 |------|--------|-------|
-| 2026-06 | Linux — Module 01: Introduction & Architecture | Linux architecture, distributions, kernel |
-| 2026-06 | Linux — Module 02: Terminal, Shell & Commands | Navigation, essential commands, shell basics |
-| 2026-06 | Linux — Module 03: Filesystem Navigation | File hierarchy, paths, permissions |
+| 2026-06-02 | Linux — Module 01: Introduction & Architecture | Linux architecture, distributions, kernel |
+| 2026-06-02 | Linux — Module 02: Terminal, Shell & Commands | Navigation, essential commands, shell basics |
+| 2026-06-03 | Linux — Module 03: Filesystem Navigation | File hierarchy, paths, permissions |
+| 2026-06-04 | Linux — Module 04: Text Files & Editors | cat/less/head/tail, Vim, Nano, heredoc, sed |
 
 *Updated after each completed module.*
 
