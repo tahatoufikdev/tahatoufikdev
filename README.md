@@ -46,7 +46,7 @@ Certifications:            Certifications:            Certifications:
 
 | Training | Progress | Status |
 |----------|----------|--------|
-| 🐧 Linux Bootcamp (20 modules) | `███████░░░` 35% | 🔄 In progress |
+| 🐧 Linux Bootcamp (20 modules) | `████████░░` 40% | 🔄 In progress |
 | 🖊️ Bash Scripting Mastery | `░░░░░░░░░░` 0% | ⬜ Up next |
 | ☁️ AWS Cloud Practitioner | `░░░░░░░░░░` 0% | ⬜ Coming |
 | 🐳 Docker Fundamentals | `░░░░░░░░░░` 0% | ⬜ Coming |
@@ -129,6 +129,7 @@ Certifications:            Certifications:            Certifications:
 | 2026-06-04 | Linux — Module 05: Stdin/Stdout/Pipes | stdin/stdout/stderr, redirections, grep, pipes, tee |
 | 2026-06-12 | Linux — Module 06: Users, Groups & Sudo | useradd, groupadd, usermod, visudo, sudo, service accounts |
 | 2026-06-19 | Linux — Module 07: Permissions | chmod, chown, octal notation, umask, file security |
+| 2026-06-19 | Linux — Module 08: Processes & Jobs | ps, top, kill, jobs, fg, bg, nohup, background processes |
 
 *Updated after each completed module.*
 
