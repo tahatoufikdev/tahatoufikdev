@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahatoufik)
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tahatoufik.dev)
-[![Location](https://img.shields.io/badge/📍_Médine,_Saudi_Arabia-2ea44f?style=for-the-badge)](https://en.wikipedia.org/wiki/Medina)
+[![Location](https://img.shields.io/badge/📍_Medina,_Saudi_Arabia-2ea44f?style=for-the-badge)](https://en.wikipedia.org/wiki/Medina)
 
 </div>
 
@@ -18,7 +18,7 @@ Web developer transitioning into **Cloud Engineering**, targeting the Saudi mark
 
 **Background:**
 - 🎓 MSc Computer Science (2023) — HTML/CSS/JS, OOP, AWS S3/Lambda, GCP
-- 🎓 BSc Islamic Sciences — Taibah University, Médine *(in progress)*
+- 🎓 BSc Islamic Sciences — Taibah University, Medina *(in progress)*
 - 💼 Freelance Dev — WordPress e-commerce/showcase sites, Excel automation
 
 ---
@@ -46,7 +46,7 @@ Certifications:            Certifications:            Certifications:
 
 | Training | Progress | Status |
 |----------|----------|--------|
-| 🐧 Linux Bootcamp (20 modules) | `██████░░░░` 30% | 🔄 In progress |
+| 🐧 Linux Bootcamp (20 modules) | `███████░░░` 35% | 🔄 In progress |
 | 🖊️ Bash Scripting Mastery | `░░░░░░░░░░` 0% | ⬜ Up next |
 | ☁️ AWS Cloud Practitioner | `░░░░░░░░░░` 0% | ⬜ Coming |
 | 🐳 Docker Fundamentals | `░░░░░░░░░░` 0% | ⬜ Coming |
@@ -128,6 +128,7 @@ Certifications:            Certifications:            Certifications:
 | 2026-06-04 | Linux — Module 04: Text Files & Editors | cat/less/head/tail, Vim, Nano, heredoc, sed |
 | 2026-06-04 | Linux — Module 05: Stdin/Stdout/Pipes | stdin/stdout/stderr, redirections, grep, pipes, tee |
 | 2026-06-12 | Linux — Module 06: Users, Groups & Sudo | useradd, groupadd, usermod, visudo, sudo, service accounts |
+| 2026-06-19 | Linux — Module 07: Permissions | chmod, chown, octal notation, umask, file security |
 
 *Updated after each completed module.*
 
@@ -135,7 +136,7 @@ Certifications:            Certifications:            Certifications:
 
 <div align="center">
 
-**📍 Médine, Saudi Arabia** · Open to remote opportunities · Target 2029
+**📍 Medina, Saudi Arabia** · Open to remote opportunities · Target 2029
 
 ![Profile views](https://komarev.com/ghpvc/?username=TahaDEV&color=green&style=flat)
 
