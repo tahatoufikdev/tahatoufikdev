@@ -1,8 +1,13 @@
 <div align="center">
 
-# Taha TOUFIK — TahaDEV
+<a href="https://tahatoufik.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tahadev-logo-dark.png">
+    <img src="assets/tahadev-logo.png" alt="TahaDEV — Websites, apps & automation" width="420">
+  </picture>
+</a>
 
-### Software engineer & freelance developer · Websites, apps and automation with AI
+### Taha TOUFIK · Software engineer & freelance developer, building with AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahatoufik.dev-0e5c3e?style=for-the-badge)](https://tahatoufik.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahatoufik/)
