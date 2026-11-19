@@ -2,142 +2,115 @@
 
 # Taha TOUFIK — TahaDEV
 
-### Cloud Engineer in Training · Saudi Vision 2030 🇸🇦
+### Software engineer & freelance developer · Websites, apps and automation with AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahatoufik)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tahatoufik.dev)
-[![Location](https://img.shields.io/badge/📍_Medina,_Saudi_Arabia-2ea44f?style=for-the-badge)](https://en.wikipedia.org/wiki/Medina)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tahatoufik.dev-0e5c3e?style=for-the-badge)](https://tahatoufik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahatoufik/)
+[![Clients](https://img.shields.io/badge/Clients-France_%26_Saudi_Arabia-d4af37?style=for-the-badge)](https://tahatoufik.dev)
 
 </div>
 
 ---
 
-## Who I am
+## What I do
 
-Web developer transitioning into **Cloud Engineering**, targeting the Saudi market (Vision 2030).
+I'm a software engineer with a French master's degree in web development, working as a freelance developer.
+Clients explain what they need in their own words, and I turn it into a website, an app or a tool that works.
 
-**Background:**
-- 🎓 MSc Computer Science (2023) — HTML/CSS/JS, OOP, AWS S3/Lambda, GCP
-- 🎓 BSc Islamic Sciences — Taibah University, Medina *(in progress)*
-- 💼 Freelance Dev — WordPress e-commerce/showcase sites, Excel automation
+- 🌐 **Business websites & online stores**: WordPress / WooCommerce, or custom-built with React and Next.js
+- 📱 **Mobile apps**: iOS and Android with React Native and Expo
+- 🖥️ **Desktop apps**: custom tools for Windows and Mac
+- ⚙️ **Task automation**: invoices, follow-ups, data, reports… anything repeated every day can run on its own
 
----
+## 🤖 How I work with AI
 
-## 🗺️ 3-Year Roadmap
+I build with **Claude Code**. AI saves me a lot of time, and I spend that time understanding the need and checking the result:
 
-```
-2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2029
-│                         │                          │
-▼ Year 1                  ▼ Year 2                   ▼ Year 3
-Linux · Networking         Kubernetes/EKS             GenAI/LLM on Cloud
-AWS Core (SAA)             Platform Engineering       MLOps · Data Engineering
-Docker · Terraform         FinOps · Zero Trust        Sovereign Cloud KSA
-CI/CD · Python/Boto3       SAMA/NCA Compliance        Blockchain/Sukuk
-
-Certifications:            Certifications:            Certifications:
-☐ AWS Cloud Practitioner   ☐ CKA                      ☐ AWS DevOps Pro
-☐ AWS SAA                  ☐ FinOps Practitioner       ☐ AWS Data Engineer
-                           ☐ AZ-900 Azure
-```
+1. **The client explains the need**, with no technical spec required
+2. **I translate it for the AI**: precise steps and the right context
+3. **I review and test everything**: code, mobile layout, edge cases
+4. **I deliver and stay available**
 
 ---
 
-## 📊 Current Progress — Year 1
+## 🗂️ Selected projects
 
-| Training | Progress | Status |
-|----------|----------|--------|
-| 🐧 Linux Bootcamp (20 modules) | `████████░░` 40% | 🔄 In progress |
-| 🖊️ Bash Scripting Mastery | `░░░░░░░░░░` 0% | ⬜ Up next |
-| ☁️ AWS Cloud Practitioner | `░░░░░░░░░░` 0% | ⬜ Coming |
-| 🐳 Docker Fundamentals | `░░░░░░░░░░` 0% | ⬜ Coming |
-| 🏗️ Terraform | `░░░░░░░░░░` 0% | ⬜ Coming |
-| 🐍 Python / Boto3 | `░░░░░░░░░░` 0% | ⬜ Coming |
+### Built with AI
+
+**🛒 [habachiya.com](https://habachiya.com) · Online store + order automation**
+`WordPress` `WooCommerce` `Claude Code`
+Online store for a black seed oil wholesaler, with everything after an order automated:
+- invoice sent to the customer as soon as they pay
+- order split into parcels following the client's rules, shipping labels bought automatically
+- one email per order with labels, packing slip and invoice
+- order marked “Completed” on delivery, with an alert if anything goes wrong
+
+> After an order, all that's left is to print, stick the labels and pack.
+
+**🥐 BreakFast · Click & collect app for bakeries** *(in development)*
+`React Native` `NestJS` `Stripe` `Claude Code`
+Android, iPhone and tablet: in-app ordering and payment, live order tracking with a QR code, a dashboard for bakers to accept orders in one tap, loyalty programme.
+
+### Before AI
+
+**📊 Orange · Automated data reports** (work-study)
+`Cloud Scheduler` → `Serverless function (Node.js)` → `BigQuery` → `Data Studio`
+An internal team's data collected, stored and turned into always up-to-date dashboards, with no manual work.
+
+**🛍️ Client websites:** [boucherielabellerouge.fr](https://www.boucherielabellerouge.fr) (WooCommerce) · [iksiir.com](https://iksiir.com) (WooCommerce) · [ecoviande.fr](https://ecoviande.fr) (WordPress)
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### Current skills
+| | Role | Period |
+|---|---|---|
+| **Freelance** | Web & app developer · France and Saudi Arabia | Since 2023 |
+| **Woby** | Full-stack software engineer (work-study): loading 1M images on AWS S3/Lambda, automated Excel exports | 2022 – 2023 |
+| **Orange** | Back-end developer & analyst (work-study): automated data collection and visualisation on Google Cloud | 2021 – 2022 |
+| **Inria** | Web developer (internship): React, Material-UI, REST APIs, PostgreSQL | 2021 |
 
-**Frontend & Mobile**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+---
+
+## 🛠️ Stack
+
+**AI & automation**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Web**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-**Backend & Auth**
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Back-end, data & cloud**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**Cloud**
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![GCP Cloud Functions](https://img.shields.io/badge/GCP_Functions-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-**Practices**
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-
-### Learning
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Coming next (2026–2028)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-## 🗂️ Projects
-
-### 🐧 Linux Sysadmin Bootcamp
-> Full Linux training oriented toward Cloud Engineering (20 modules, 4 projects)
-
-| Project | Description | Skills |
-|---------|-------------|--------|
-| P1 — SysAdmin Toolkit | Automated user management + system report | Users, Permissions, Bash |
-| P2 — Secure Server | Automated hardening + security audit | SSH, fail2ban, SELinux |
-| P3 — Monitoring Dashboard | Monitoring dashboard + log analysis | Bash, grep/sed/awk |
-| P4 — Web Server EC2 | Secured NGINX on AWS EC2 (User Data + CloudWatch) | AWS, cloud-init, NGINX |
-
----
-
-## 📅 Learning Journal
-
-| Date | Module | Notes |
-|------|--------|-------|
-| 2026-06-02 | Linux — Module 01: Introduction & Architecture | Linux architecture, distributions, kernel |
-| 2026-06-02 | Linux — Module 02: Terminal, Shell & Commands | Navigation, essential commands, shell basics |
-| 2026-06-03 | Linux — Module 03: Filesystem Navigation | File hierarchy, paths, permissions |
-| 2026-06-04 | Linux — Module 04: Text Files & Editors | cat/less/head/tail, Vim, Nano, heredoc, sed |
-| 2026-06-04 | Linux — Module 05: Stdin/Stdout/Pipes | stdin/stdout/stderr, redirections, grep, pipes, tee |
-| 2026-06-12 | Linux — Module 06: Users, Groups & Sudo | useradd, groupadd, usermod, visudo, sudo, service accounts |
-| 2026-06-19 | Linux — Module 07: Permissions | chmod, chown, octal notation, umask, file security |
-| 2026-06-19 | Linux — Module 08: Processes & Jobs | ps, top, kill, jobs, fg, bg, nohup, background processes |
-
-*Updated after each completed module.*
 
 ---
 
 <div align="center">
 
-**📍 Medina, Saudi Arabia** · Open to remote opportunities · Target 2029
+**Something takes up your time, or you want to launch a project?**
+Tell me about it on [tahatoufik.dev](https://tahatoufik.dev), and I'll reply with a first idea of a solution.
 
 ![Profile views](https://komarev.com/ghpvc/?username=TahaDEV&color=green&style=flat)
 
